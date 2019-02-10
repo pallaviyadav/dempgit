@@ -1,0 +1,4 @@
+yarn jar music.jar org.numlistener.MusicDriver /Music/MusicFile.txt /Music/MusicNumListener
+yarn jar music.jar org.numtrackshared.MusicDriver /Music/MusicFile.txt /Music/MusicNumShare
+yarn jar music.jar org.numtracklisten.MusicDriver /Music/MusicFile.txt /Music/MusicTotalListen
+yarn jar music.jar org.numtrackskip.MusicDriver /Music/MusicFile.txt /Music/MusicTrackSkip
